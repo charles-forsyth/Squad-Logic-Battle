@@ -1,0 +1,5 @@
+{
+  "name": "Squad Logic",
+  "description": "A high-fidelity 3D battle simulation with autonomous agents, physics-based combat, and dynamic camera modes.",
+  "requestFramePermissions": []
+}
